@@ -13,17 +13,47 @@
 
 ## Nest.land Hacktoberfest 2020
 
-## What is nest.land?
+### Agenda
+1. 1 PM Berlin Time: SAP Employee development kickoff
+2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
+3. Start building!
 
-Nest.land combines Deno with the [Arweave](https://arweave.org). With us, you can publish your Deno modules to the permaweb, where they can never be deleted. This avoids a major pitfall for web-based module imports while allowing developers to leverage Deno's import design!
+### Topics
+#### Build a Deno module
+Complete a Deno module and publish it to Nest.land **and** Deno.land/x. 
 
-## Speakers
+Extra points will be awarded to modules that meet the following criteria:
+- Complete or leverage [web3](https://nest.land/package/web3)
+- Complete or leverage [nlp](https://nest.land/package/nlp)
+- Build a canvas module for Deno
+
+#### Boy Scout Tour (nament) :)
+Pick any Nest.land or Deno.land/x module you like and leave it in better condition than you found it by raising a **beneficial** PR on its repository.
+[Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
+
+### Rules
+#### Build a Deno module
+- You **CAN** submit a module that you already published
+- You must submit a PR conforming to the template provided in this repository
+- The module must be published to Nest.land and Deno.land/x
+  - If you are building a module that has been accepted as a part of Deno's Standard Library, you do not need to additionally publish it to Nest.land, as we run an [STD mirror](https://nest.land/std)
+- The module must be created originally by you or your team
+- The module must not contain malicious or inappropriate files
+
+#### Boy Scout Tour
+- You must submit a PR conforming to the template provided in this repository
+- Your contributions must be sufficiently beneficial to the module
+- Your PR to the module repository must be accepted and merged
+
+> The Nest.land and Deno.land Organizations reserve the right to disqualify user or module for any reason.
+
+### Speakers
 
 - [Ryan Dahl](https://github.com/ry)
 - [Sam Williams](https://github.com/samcamwilliams)
 - [Michael Spengler](https://github.com/michael-spengler)
 
-## In Collaboration With:
+### In Collaboration With
 
 <img src="../assets/sap_logo.png" alt="SAP Logo" width="110">
 

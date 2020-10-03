@@ -13,6 +13,8 @@
 
 ## Nest.land Hacktoberfest 2020
 
+This repository serves as a project and participant registry for our Hacktoberfest 2020 event. Any contributions you make to Deno projects or modules you create **must** have a pull-request, with the necessary information provided, into this repository. Without a pull-request, you will not be considered for the various available rewards.
+
 ### Agenda
 1. 1 PM Berlin Time: SAP Employee development kickoff
 2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
@@ -55,7 +57,7 @@ Pick any Nest.land or Deno.land/x module you like and leave it in better conditi
 
 ### In Collaboration With
 
-<img src="../assets/sap_logo.png" alt="SAP Logo" width="110">
+<a href="https://www.sap.com/"><img src="../assets/sap_logo.png" alt="SAP Logo" width="110"></a>
 
 ## Copyright
 

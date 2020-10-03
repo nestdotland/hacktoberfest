@@ -11,14 +11,13 @@
  </p>
 </p>
 
-## Nest.land Hacktoberfest 2020
-
 This repository serves as a project and participant registry for our Hacktoberfest 2020 event. Any contributions you make to Deno projects or modules you create **must** have a pull-request, with the necessary information provided, into this repository. Without a pull-request, you will not be considered for the various available rewards.
 
 ### Agenda
 1. 1 PM Berlin Time: SAP Employee development kickoff
-2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
+2. October 23rd at 12 PM ET: Hacktoberfest Event - Deno & Profit Sharing Communities
 3. Start building!
+4. October 26th at 11 AM ET: No longer accepting submissions
 
 ### Topics
 #### Build a Deno module

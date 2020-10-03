@@ -23,9 +23,9 @@ Nest.land combines Deno with the [Arweave](https://arweave.org). With us, you ca
 - [Sam Williams](https://github.com/samcamwilliams)
 - [Michael Spengler](https://github.com/michael-spengler)
 
-## In collaboration With:
+## In Collaboration With:
 
-<img src="../assets/logo_sap.png" alt="SAP Logo" width="110">
+<img src="../assets/sap_logo.png" alt="SAP Logo" width="110">
 
 ## Copyright
 

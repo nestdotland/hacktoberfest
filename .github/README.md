@@ -7,13 +7,30 @@
   <h3 align="center">Nest.land Hacktoberfest 2020</h3>
 
   <p align="center">
-    Growth-Hacking the Deno Ecosystem
+    Growth <i>hacking</i> the Deno Ecosystem
  </p>
+  <p align="center">
+    <img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/nestdotland/hacktoberfest-2020?logo=digitalocean">
+    <a href="https://discord.gg/hYUsX3H">
+      <img
+        src="https://img.shields.io/discord/722823139960291328?label=Discord&logo=discord"
+        alt="Discord"
+      >
+    </a>
+  </p>
 </p>
 
 > Not currently accepting submissions. We'll be accepting incoming PRs starting on October 23rd!
 
 This repository serves as a project and participant registry for our Hacktoberfest 2020 event. Any contributions you make to Deno projects or modules you create **must** have a pull-request, with the necessary information provided, into this repository. Without a pull-request, you will not be considered for the various available rewards.
+
+## The Event
+
+We're so excited to be hosting a Deno and Profit Sharing Communities Meetup on October 23rd with speakers: Ryan Dahl, Sam Williams, and Michael Spengler. You'll also have the opportunity to connect with other members of our community after the session!
+
+Sign up here: Coming soon!
+
+Join our community on [Discord](https://discord.gg/hYUsX3H) and follow [@nestdotland](https://twitter.com/nestdotland) and [@deno_land](https://twitter.com/deno_land) on Twitter!
 
 ### Agenda
 1. 1 PM Berlin Time: SAP Employee development kickoff
@@ -48,7 +65,7 @@ Pick any Nest.land or Deno.land/x module you like and leave it in better conditi
 - Your contributions must be sufficiently beneficial to the module
 - Your PR to the module repository must be accepted and merged
 
-> The Nest.land and Deno.land Organizations reserve the right to disqualify user or module for any reason.
+> The Nest.land and Deno.land Organizations reserve the right to disqualify a user or module for any reason.
 
 ### Speakers
 

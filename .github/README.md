@@ -28,7 +28,7 @@ This repository serves as a project and participant registry for our Hacktoberfe
 
 We're so excited to be hosting a Deno and Profit Sharing Communities Meetup on October 23rd with speakers: Ryan Dahl, Sam Williams, and Michael Spengler. You'll also have the opportunity to connect with other members of our community after the session!
 
-Sign up here: https://organize.mlh.io/participants/events/5363-nest-land-hacktoberfest-online-meetup-with-ryan-dahl-sam-williams-and-michael-spengler
+[**Sign up here!**](https://organize.mlh.io/participants/events/5363-nest-land-hacktoberfest-online-meetup-with-ryan-dahl-sam-williams-and-michael-spengler)
 
 Join our community on [Discord](https://discord.gg/hYUsX3H) and follow [@nestdotland](https://twitter.com/nestdotland) and [@deno_land](https://twitter.com/deno_land) on Twitter!
 

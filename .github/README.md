@@ -38,8 +38,13 @@ Join our community on [Discord](https://discord.gg/hYUsX3H) and follow [@nestdot
 3. Start building!
 4. October 26th at 11 AM ET: No longer accepting submissions
 
-### Topics
-#### Build a Deno module
+### Speakers
+- [Ryan Dahl](https://github.com/ry) - Creator of Deno and Node
+- [Sam Williams](https://github.com/samcamwilliams) - Founder and CEO of Arweave
+- [Michael Spengler](https://github.com/michael-spengler) - Developer at SAP
+
+## Participate
+### Build a Deno module
 Complete a Deno module and publish it to Nest.land **and** Deno.land/x. 
 
 Extra points will be awarded to modules that meet the following criteria:
@@ -47,12 +52,13 @@ Extra points will be awarded to modules that meet the following criteria:
 - Complete or leverage [nlp](https://nest.land/package/nlp)
 - Build a canvas module for Deno
 
-#### Boy Scout Tour (nament) :)
+### Boy Scout Tour
 Pick any Nest.land or Deno.land/x module you like and leave it in better condition than you found it by raising a **beneficial** PR on its repository.
 [Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 
-### Rules
-#### Build a Deno module
+## Rules
+
+### Build a Deno module
 - You **CAN** submit a module that you already published
 - You must submit a PR conforming to the template provided in this repository
 - The module must be published to Nest.land and Deno.land/x
@@ -60,20 +66,14 @@ Pick any Nest.land or Deno.land/x module you like and leave it in better conditi
 - The module must be created originally by you or your team
 - The module must not contain malicious or inappropriate files
 
-#### Boy Scout Tour
+### Boy Scout Tour
 - You must submit a PR conforming to the template provided in this repository
 - Your contributions must be sufficiently beneficial to the module
 - Your PR to the module repository must be accepted and merged
 
 > The Nest.land and Deno.land Organizations reserve the right to disqualify a user or module for any reason.
 
-### Speakers
-
-- [Ryan Dahl](https://github.com/ry) - Creator of Deno and Node
-- [Sam Williams](https://github.com/samcamwilliams) - Founder and CEO of Arweave
-- [Michael Spengler](https://github.com/michael-spengler) - Developer at SAP
-
-### In Collaboration With
+## In Collaboration With
 
 <a href="https://www.sap.com/"><img src="../assets/sap_logo.png" alt="SAP Logo" width="110"></a>
 

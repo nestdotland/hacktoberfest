@@ -1,0 +1,17 @@
+[
+  {
+    "name": "your_module_name",
+    "nestdotland": "nest.land/package/your_module",
+    "denoland": "deno.land/x/your_module",
+    "author": {
+      "name": "author_name",
+      "wallet-address": "1234567890abcdefghijk"
+    },
+    "contributors": [
+      {
+        "name": "author_name",
+        "wallet-address": "1234567890abcdefghijk"
+      }
+    ]
+  }
+]

@@ -52,9 +52,9 @@ Pick any Nest.land or Deno.land/x module you like and leave it in better conditi
 
 ### Speakers
 
-- [Ryan Dahl](https://github.com/ry)
-- [Sam Williams](https://github.com/samcamwilliams)
-- [Michael Spengler](https://github.com/michael-spengler)
+- [Ryan Dahl](https://github.com/ry) - Creator of Deno and Node
+- [Sam Williams](https://github.com/samcamwilliams) - Founder and CEO of Arweave
+- [Michael Spengler](https://github.com/michael-spengler) - Developer at SAP
 
 ### In Collaboration With
 

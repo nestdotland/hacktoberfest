@@ -5,12 +5,12 @@
     "denoland": "deno.land/x/your_module",
     "author": {
       "name": "author_name",
-      "wallet-address": "1234567890abcdefghijk"
+      "wallet": "1234567890abcdefghijk"
     },
     "contributors": [
       {
         "name": "author_name",
-        "wallet-address": "1234567890abcdefghijk"
+        "wallet": "1234567890abcdefghijk"
       }
     ]
   }

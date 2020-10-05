@@ -56,6 +56,7 @@ Extra points will be awarded to modules that meet the following criteria:
 - Complete or leverage [web3](https://nest.land/package/web3)
 - Complete or leverage [nlp](https://nest.land/package/nlp)
 - Build a canvas module for Deno
+- Build a module for accessing disk information and writing raw data to any device
 
 ### Boy Scout Tour
 

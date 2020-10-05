@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://nest.land/">
-    <img src="../assets/logo_light.png" alt="nest.land logo (hacktober version)" width="110">
+    <img src="../assets/logo_light.svg" alt="nest.land logo (hacktober version)" width="110">
   </a>
 
   <h3 align="center">Nest.land Hacktoberfest 2020</h3>

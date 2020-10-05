@@ -1,7 +1,7 @@
 ---
 name: 🐛 Bug Report
 about: Submit a bug report to help us improve
-labels: 'type: bug, status: needs triage'
+labels: "type: bug, status: needs triage"
 ---
 
 <!--

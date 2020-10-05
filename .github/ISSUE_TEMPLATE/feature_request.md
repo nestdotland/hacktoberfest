@@ -1,7 +1,7 @@
 ---
 name: 🚀 Feature Request/Idea
 about: Suggest a feature or idea for this project
-labels: 'type: feature, status: needs triage'
+labels: "type: feature, status: needs triage"
 ---
 
 <!--

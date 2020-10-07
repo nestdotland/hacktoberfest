@@ -5,11 +5,14 @@
     "denoland": "deno.land/x/your_module",
     "author": {
       "name": "author_name",
+      "github": "author_github",
       "wallet": "1234567890abcdefghijk"
     },
     "contributors": [
       {
-        "name": "author_name",
+        "name": "contributor_name",
+        "github": "contributor_github",
+        "prs": ["https://github.com/author_github/module_repository/pull/number"],
         "wallet": "1234567890abcdefghijk"
       }
     ]

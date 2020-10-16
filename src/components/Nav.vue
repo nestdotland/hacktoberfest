@@ -1,0 +1,57 @@
+<template>
+  <div class="nav">
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+      <div class="container is-max-widescreen">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="https://hacktoberfest.nest.land">
+            <img src="../assets/logos/logo.svg" width="40" height="40">
+            <p class="is-uppercase">nest</p>
+          </a>
+
+          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" :class="burgerClass" @click="toggleBurger">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div class="navbar-menu" :class="burgerClass">
+          <div class="navbar-end">
+            <div class="navbar-item">
+              <a class="has-text-white">
+                <strong>Submissions</strong>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>    
+  </div>
+</template>
+
+<script>
+export default {
+  name: "NestNav",
+  data() {
+    return {
+      burgerToggled: false,
+      burgerClass: "",
+    };
+  },
+  methods: {
+    toggleBurger() {
+      if (this.burgerToggled) {
+        this.burgerToggled = false;
+        this.burgerClass = "";
+      } else {
+        this.burgerToggled = true;
+        this.burgerClass = "is-active";
+      }
+    },
+  },
+}
+</script>
+
+<style>
+
+</style>

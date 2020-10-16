@@ -1,5 +1,5 @@
 {
-  "name": "src",
+  "name": "nest.land-hacktoberfest-2020",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bulma": "^0.9.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",

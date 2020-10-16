@@ -4,11 +4,18 @@
       <div class="container is-max-widescreen">
         <div class="navbar-brand">
           <a class="navbar-item" href="https://hacktoberfest.nest.land">
-            <img src="../assets/logos/logo.svg" width="40" height="40">
+            <img src="../assets/logos/logo.svg" width="40" height="40" />
             <p class="is-uppercase">nest</p>
           </a>
 
-          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" :class="burgerClass" @click="toggleBurger">
+          <a
+            role="button"
+            class="navbar-burger burger"
+            aria-label="menu"
+            aria-expanded="false"
+            :class="burgerClass"
+            @click="toggleBurger"
+          >
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
@@ -25,7 +32,7 @@
           </div>
         </div>
       </div>
-    </nav>    
+    </nav>
   </div>
 </template>
 
@@ -35,7 +42,7 @@ export default {
   data() {
     return {
       burgerToggled: false,
-      burgerClass: "",
+      burgerClass: ""
     };
   },
   methods: {
@@ -47,11 +54,9 @@ export default {
         this.burgerToggled = true;
         this.burgerClass = "is-active";
       }
-    },
-  },
-}
+    }
+  }
+};
 </script>
 
-<style>
-
-</style>
+<style></style>

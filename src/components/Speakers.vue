@@ -8,33 +8,52 @@
             <div class="column">
               <div class="card is-dark">
                 <figure class="speaker image">
-                  <img src="../assets/people/ryan.jpg" alt="Ryan in 2020">
+                  <img src="../assets/people/ryan.jpg" alt="Ryan in 2020" />
                 </figure>
                 <div class="card-content has-text-left">
                   <p class="title is-4">Ryan Dahl</p>
-                  <p class="subtitle is-6">@ry <span class="has-text-pink">|</span> Deno</p>
+                  <p class="subtitle is-6 has-text-white">
+                    <a href="https://github.com/ry">@ry</a>
+                    <span class="has-text-pink">&nbsp;|&nbsp;</span>
+                    <a href="https://deno.land">Deno</a>
+                  </p>
                 </div>
               </div>
             </div>
             <div class="column">
               <div class="card is-dark">
                 <figure class="speaker image">
-                  <img src="../assets/people/sam.png" alt="Sam">
+                  <img src="../assets/people/sam.png" alt="Sam" />
                 </figure>
                 <div class="card-content has-text-left">
                   <p class="title is-4">Sam Williams</p>
-                  <p class="subtitle is-6">@samcwilliams <span class="has-text-pink">|</span> Arweave</p>
+                  <p class="subtitle is-6 has-text-white">
+                    <a href="https://github.com/samcamwilliams"
+                      >@samcamwilliams</a
+                    >
+                    <span class="has-text-pink">&nbsp;|&nbsp;</span>
+                    <a href="https://arweave.org">Arweave</a>
+                  </p>
                 </div>
               </div>
             </div>
             <div class="column">
               <div class="card is-dark">
                 <figure class="speaker image">
-                  <img src="../assets/logos/p2p.jpg" alt="P2P Enterprise Logo">
+                  <img
+                    src="../assets/logos/p2p.jpg"
+                    alt="P2P Enterprise Logo"
+                  />
                 </figure>
                 <div class="card-content has-text-left">
                   <p class="title is-4">Michael Spengler</p>
-                  <p class="subtitle is-6">@michael-spengler <span class="has-text-pink">|</span> SAP</p>
+                  <p class="subtitle is-6 has-text-white">
+                    <a href="https://github.com/michael-spengler"
+                      >@michael-spengler</a
+                    >
+                    <span class="has-text-pink">&nbsp;|&nbsp;</span>
+                    <a href="https://sap.com">SAP</a>
+                  </p>
                 </div>
               </div>
             </div>
@@ -47,27 +66,27 @@
 
 <script>
 export default {
-  name: "Speakers",
-}
+  name: "Speakers"
+};
 </script>
 
 <style lang="scss">
-  .speakers {
-    .card {
-      background: #414141;
-      border-radius: 20px;
+.speakers {
+  .card {
+    background: #414141;
+    border-radius: 20px;
 
-      .speaker {
-        padding: 25px 25px 0 25px;
+    .speaker {
+      padding: 25px 25px 0 25px;
 
-        img {
-          border-radius: 20px;
-        }
+      img {
+        border-radius: 20px;
       }
     }
-
-    .has-text-pink {
-      color: #FF8AE2;
-    }
   }
+
+  .has-text-pink {
+    color: #ff8ae2;
+  }
+}
 </style>

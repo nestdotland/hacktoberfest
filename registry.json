@@ -12,7 +12,9 @@
       {
         "name": "contributor_name",
         "github": "contributor_github",
-        "prs": ["https://github.com/author_github/module_repository/pull/number"],
+        "prs": [
+          "https://github.com/author_github/module_repository/pull/number"
+        ],
         "wallet": "1234567890abcdefghijk"
       }
     ]

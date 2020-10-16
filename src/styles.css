@@ -10,14 +10,6 @@
 
 body,
 html {
-  color: #000;
-  background: #fff;
-}
-
-@media (prefers-color-scheme: dark) {
-  body,
-  html {
-    color: #fff;
-    background: #072540;
-  }
+  color: #fff;
+  background: #272727;
 }

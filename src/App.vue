@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Banner />
     <Nav />
     <router-view />
   </div>
@@ -7,10 +8,12 @@
 
 <script>
 // @ is an alias to /src
+import Banner from "@/components/Banner.vue";
 import Nav from "@/components/Nav.vue";
 
 export default {
   components: {
+    Banner,
     Nav
   }
 };

@@ -38,7 +38,7 @@
 
 <script>
 export default {
-  name: "NestNav",
+  name: "Nav",
   data() {
     return {
       burgerToggled: false,
@@ -59,7 +59,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
 p.nest {
   margin-left: 10px;

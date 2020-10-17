@@ -15,7 +15,7 @@
                   <p class="subtitle is-6 has-text-white">
                     <a href="https://github.com/ry">@ry</a>
                     <span class="has-text-pink">&nbsp;|&nbsp;</span>
-                    <a href="https://deno.land">Deno</a>
+                    <a class="company" href="https://deno.land">Deno</a>
                   </p>
                 </div>
               </div>
@@ -32,7 +32,7 @@
                       >@samcamwilliams</a
                     >
                     <span class="has-text-pink">&nbsp;|&nbsp;</span>
-                    <a href="https://arweave.org">Arweave</a>
+                    <a class="company" href="https://arweave.org">Arweave</a>
                   </p>
                 </div>
               </div>
@@ -52,7 +52,7 @@
                       >@michael-spengler</a
                     >
                     <span class="has-text-pink">&nbsp;|&nbsp;</span>
-                    <a href="https://sap.com">SAP</a>
+                    <a class="company" href="https://sap.com">SAP</a>
                   </p>
                 </div>
               </div>
@@ -82,6 +82,10 @@ export default {
       img {
         border-radius: 20px;
       }
+    }
+
+    a.company {
+        border-bottom: 1px solid white;
     }
   }
 

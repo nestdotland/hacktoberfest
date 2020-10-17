@@ -53,7 +53,7 @@ export default {
   data() {
     return {
       registry,
-      loading: true,
+      loading: true
     };
   },
   async created() {
@@ -76,8 +76,8 @@ export default {
         this.registry[i].time = dayjs.duration(now.diff(then)).humanize();
       }
       this.loading = false;
-    },
-  },
+    }
+  }
 };
 </script>
 

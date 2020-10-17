@@ -8,7 +8,11 @@
             <div class="column">
               <div class="card is-dark">
                 <figure class="speaker image">
-                  <img src="../assets/people/ryan.jpg" alt="Ryan in 2020" />
+                  <img
+                    src="../assets/people/ryan.jpg"
+                    alt="Ryan in 2020"
+                    id="ryan"
+                  />
                 </figure>
                 <div class="card-content has-text-left">
                   <p class="title is-4">Ryan Dahl</p>
@@ -43,6 +47,7 @@
                   <img
                     src="../assets/logos/p2p.jpg"
                     alt="P2P Enterprise Logo"
+                    id="michael"
                   />
                 </figure>
                 <div class="card-content has-text-left">
@@ -66,7 +71,7 @@
 
 <script>
 export default {
-  name: "Speakers",
+  name: "Speakers"
 };
 </script>
 
@@ -81,6 +86,11 @@ export default {
 
       img {
         border-radius: 20px;
+
+        &#ryan,
+        &#michael {
+          filter: grayscale(1);
+        }
       }
     }
 

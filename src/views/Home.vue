@@ -17,7 +17,7 @@ export default {
   components: {
     Hero,
     Info,
-    Speakers,
-  },
+    Speakers
+  }
 };
 </script>

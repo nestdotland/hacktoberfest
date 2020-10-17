@@ -25,15 +25,15 @@ export default {
     }
 
     return {
-      showBanner,
+      showBanner
     };
   },
   methods: {
     closeBanner() {
       this.showBanner = false;
       localStorage.setItem("showBanner", "no");
-    },
-  },
+    }
+  }
 };
 </script>
 

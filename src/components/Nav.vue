@@ -25,9 +25,9 @@
         <div class="navbar-menu" :class="burgerClass">
           <div class="navbar-end">
             <div class="navbar-item">
-              <a class="has-text-white">
+              <router-link class="has-text-white" to="/x">
                 Submissions
-              </a>
+              </router-link>
             </div>
           </div>
         </div>

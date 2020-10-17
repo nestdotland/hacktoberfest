@@ -3,10 +3,10 @@
     <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
       <div class="container is-max-widescreen">
         <div class="navbar-brand">
-          <a class="navbar-item" href="https://hacktoberfest.nest.land">
+          <router-link class="navbar-item" to="/">
             <img src="../assets/logos/logo.svg" />
             <p class="nest is-uppercase">nest</p>
-          </a>
+          </router-link>
 
           <a
             role="button"

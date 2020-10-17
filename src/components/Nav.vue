@@ -4,8 +4,8 @@
       <div class="container is-max-widescreen">
         <div class="navbar-brand">
           <a class="navbar-item" href="https://hacktoberfest.nest.land">
-            <img src="../assets/logos/logo.svg" width="40" height="40" />
-            <p class="is-uppercase">nest</p>
+            <img src="../assets/logos/logo.svg" />
+            <p class="nest is-uppercase">nest</p>
           </a>
 
           <a
@@ -26,7 +26,7 @@
           <div class="navbar-end">
             <div class="navbar-item">
               <a class="has-text-white">
-                <strong>Submissions</strong>
+                Submissions
               </a>
             </div>
           </div>
@@ -59,4 +59,10 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss">
+
+p.nest {
+  margin-left: 10px;
+}
+
+</style>

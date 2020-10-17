@@ -3,6 +3,7 @@
     <Banner />
     <Nav />
     <router-view />
+    <Footer />
   </div>
 </template>
 
@@ -10,12 +11,14 @@
 // @ is an alias to /src
 import Banner from "@/components/Banner.vue";
 import Nav from "@/components/Nav.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
   components: {
     Banner,
-    Nav
-  }
+    Nav,
+    Footer,
+  },
 };
 </script>
 

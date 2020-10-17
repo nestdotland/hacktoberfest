@@ -42,7 +42,7 @@ export default {
   data() {
     return {
       burgerToggled: false,
-      burgerClass: ""
+      burgerClass: "",
     };
   },
   methods: {
@@ -54,15 +54,13 @@ export default {
         this.burgerToggled = true;
         this.burgerClass = "is-active";
       }
-    }
-  }
+    },
+  },
 };
 </script>
 
 <style lang="scss" scoped>
-
 p.nest {
   margin-left: 10px;
 }
-
 </style>

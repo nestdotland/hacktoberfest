@@ -1,4 +1,4 @@
-name: "cicd"
+name: "trigger ci / cd steps"
 on:
   pull_request: # change this depending on which event you want to react
     types: [opened] 
@@ -22,4 +22,6 @@ jobs:
           # deno run --allow-net https://deno.land/x/cicd/create-major-release.ts
           # deno run --allow-net https://deno.land/x/cicd/notify-via-telegram.ts
           # deno run --allow-net https://deno.land/x/cicd/notify-via-slack.ts
-          # deno run --allow-net https://deno.land/x/cicd/notify-via-discord.ts     
+          # deno run --allow-net https://deno.land/x/cicd/notify-via-discord.ts
+
+# https://docs.github.com/en/free-pro-team@latest/actions/reference/context-and-expression-syntax-for-github-actions#github-context

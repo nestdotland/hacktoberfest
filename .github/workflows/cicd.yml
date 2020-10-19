@@ -1,6 +1,6 @@
 name: "trigger ci / cd steps"
 on:
-  pull_request: # change this depending on which event you want to react
+  pull_request_target: # change this depending on which event you want to react
     types: [opened] 
 jobs:
   cicdsteps:

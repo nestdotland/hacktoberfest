@@ -12,3 +12,5 @@
 - [ ] I am a member of the [Nest.land Discord](https://discord.gg/Swcy7Ws)
 - [ ] I am following [@nestdotland](https://twitter.com/nestdotland) on Twitter
 - [ ] I am following [@deno_land](https://twitter.com/deno_land) on Twitter
+- [ ] I am following [@ArweaveTeam](https://twitter.com/ArweaveTeam) on Twitter
+- [ ] I am following [@peer2peerE](https://twitter.com/Peer2peerE) on Twitter

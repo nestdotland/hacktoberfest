@@ -11,7 +11,6 @@ jobs:
          deno-version: v1.x
       - run: | # uncomment the specific steps below which you want to be executed 
           deno --version
-          echo ${{ secrets.JUST_PUBLIC }}
           deno run --allow-net https://deno.land/x/cicd/post-PR-checklist.ts ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} ${{ github.event.pull_request.number }}
           # deno run --allow-net https://deno.land/x/cicd/lint.ts
           # deno run --allow-net https://deno.land/x/cicd/security-scan.ts
@@ -26,3 +25,5 @@ jobs:
           # deno run --allow-net https://deno.land/x/cicd/notify-via-discord.ts
 
 # https://docs.github.com/en/free-pro-team@latest/actions/reference/context-and-expression-syntax-for-github-actions#github-context
+
+

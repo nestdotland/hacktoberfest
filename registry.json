@@ -16,5 +16,16 @@
         "wallet": "1234567890abcdefghijk"
       }
     ]
-  }
+  },
+  {
+    "name": "distance-calculator",
+    "nestdotland": "nest.land/package/distance-calculator",
+    "denoland": "deno.land/x/distancecalculator",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  }  
 ]

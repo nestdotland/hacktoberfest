@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Banner />
     <Nav />
     <router-view />
     <Footer />
@@ -9,13 +8,11 @@
 
 <script>
 // @ is an alias to /src
-import Banner from "@/components/Banner.vue";
 import Nav from "@/components/Nav.vue";
 import Footer from "@/components/Footer.vue";
 
 export default {
   components: {
-    Banner,
     Nav,
     Footer
   }

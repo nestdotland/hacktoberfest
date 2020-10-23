@@ -7,7 +7,6 @@
             <img src="../assets/logos/logo.svg" />
             <p class="nest is-uppercase">nest</p>
           </router-link>
-
           <a
             role="button"
             class="navbar-burger burger"
@@ -25,9 +24,9 @@
         <div class="navbar-menu" :class="burgerClass">
           <div class="navbar-end">
             <div class="navbar-item">
-              <router-link class="has-text-white" to="/x">
+              <a class="has-text-white" href="/x">
                 Submissions
-              </router-link>
+              </a>
             </div>
           </div>
         </div>
@@ -62,5 +61,12 @@ export default {
 <style lang="scss" scoped>
 p.nest {
   margin-left: 10px;
+}
+
+.navbar-item:hover,
+.navbar-item:active,
+.navbar-item:focus,
+.navbar-menu {
+  background: #363636 !important;
 }
 </style>

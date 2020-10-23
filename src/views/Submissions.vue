@@ -23,7 +23,7 @@
             <p class="has-text-jetbrains">
               <a
                 class="has-text-white"
-                :href="`https://github.com/${entry.author.name}`"
+                :href="`https://github.com/${entry.author.github}`"
               >
                 @{{ entry.author.name }}
               </a>
@@ -57,6 +57,7 @@ export default {
     };
   },
   async created() {
+    this.registry.shift();
     await this.getDescriptions();
   },
   methods: {

@@ -2,8 +2,7 @@
   <div class="footer is-dark">
     <div class="container is-max-widescreen">
       <p class="has-text-white">
-        Made with <b class="pink">&amp;hearts;</b> for the Deno
-        Community.
+        Made with <b class="pink">&amp;hearts;</b> for the Deno Community.
         <a
           class="is-pulled-right"
           href="https://vercel.com/?utm_source=nest-land"

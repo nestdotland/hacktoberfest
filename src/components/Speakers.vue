@@ -1,6 +1,6 @@
 <template>
   <div class="speakers">
-    <div class="hero is-medium is-dark">
+    <div class="hero is-small is-dark">
       <div class="hero-body">
         <div class="container is-max-widescreen">
           <h2 class="title">Speakers</h2>
@@ -95,7 +95,7 @@ export default {
     }
 
     a.company {
-      border-bottom: 1px solid white;
+      font-weight: 500;
     }
   }
 

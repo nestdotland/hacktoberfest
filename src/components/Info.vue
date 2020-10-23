@@ -6,7 +6,7 @@
           <h1 class="title">The Event</h1>
           <hr />
           <h2 class="subtitle">
-            Nest.land Hacktoberfest is an internsational, module-focused
+            Nest.land Hacktoberfest is an international, module-focused
             hackathon taking place from Friday, <b>October 23rd</b> to Monday,
             <b>October 26th</b>. On Friday at 12 PM ET, we'll have a kickoff
             event showcasing Deno, Arweave's new Profit Sharing Communities, and

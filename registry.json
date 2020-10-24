@@ -18,6 +18,24 @@
     ]
   },
   {
+    "name": "request",
+    "nestdotland": "nest.land/package/request",
+    "denoland": "deno.land/x/request",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": [
+      {
+        "name": "Ravi Mashru",
+        "github": "ravimashru",
+        "prs": ["https://github.com/michael-spengler/request/pull/4"],
+        "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
+      }
+    ]
+  },  
+  {
     "name": "distance-calculator",
     "nestdotland": "nest.land/package/distance-calculator",
     "denoland": "deno.land/x/distancecalculator",
@@ -27,5 +45,34 @@
       "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
     },
     "contributors": []
-  }  
+  },  
+  {
+    "name": "neural_nets",
+    "nestdotland": "nest.land/package/neural_nets",
+    "denoland": "deno.land/x/neural_nets",
+    "author": {
+      "name": "Ravi Mashru",
+      "github": "ravimashru",
+      "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
+    },
+    "contributors": []
+  },  
+  {
+    "name": "cicd",
+    "nestdotland": "nest.land/package/cicd",
+    "denoland": "deno.land/x/cicd",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": [
+          {
+        "name": "Ravi Mashru",
+        "github": "ravimashru",
+        "prs": ["https://github.com/michael-spengler/cicd/pull/8", "https://github.com/michael-spengler/cicd/pull/12", "https://github.com/michael-spengler/cicd/pull/13"],
+        "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
+      }
+    ]
+  }
 ]

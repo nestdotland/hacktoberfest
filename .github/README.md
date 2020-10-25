@@ -20,8 +20,6 @@
   </p>
 </p>
 
-> Not currently accepting submissions. We'll be accepting incoming PRs starting on October 23rd!
-
 This repository serves as a project and participant registry for our Hacktoberfest 2020 event. Any contributions you make to Deno projects or modules you create **must** have a pull-request, with the necessary information provided, into this repository. Without a pull-request, you will not be considered for the various available rewards.
 
 ## The Event

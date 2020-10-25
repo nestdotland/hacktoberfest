@@ -98,5 +98,16 @@
       "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
     },
     "contributors": []
+  },
+  {
+    "name": "testEach",
+    "nestdotland": "nest.land/package/testEach",
+    "denoland": "deno.land/x/test_each",
+    "author": {
+      "name": "Szalay Kristóf",
+      "github": "littletof",
+      "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
+    },
+    "contributors": []
   }
 ]

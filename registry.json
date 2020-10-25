@@ -87,5 +87,16 @@
       "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
     },
     "contributors": []
+  },
+  {
+    "name": "kopo",
+    "nestdotland": "nest.land/package/kopo",
+    "denoland": "deno.land/x/kopo",
+    "author": {
+      "name": "Szalay Kristóf",
+      "github": "littletof",
+      "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
+    },
+    "contributors": []
   }
 ]

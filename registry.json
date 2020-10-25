@@ -56,7 +56,7 @@
       "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
     },
     "contributors": []
-  },  
+  },
   {
     "name": "cicd",
     "nestdotland": "nest.land/package/cicd",
@@ -74,5 +74,16 @@
         "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
       }
     ]
+  },
+  {
+    "name": "registries",
+    "nestdotland": "nest.land/package/registries",
+    "denoland": "deno.land/x/registries",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
   }
 ]

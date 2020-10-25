@@ -98,5 +98,57 @@
       "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
     },
     "contributors": []
+  },
+  {
+    "name": "kek",
+    "nestdotland": "nest.land/package/kek",
+    "denoland": "deno.land/x/kek",
+    "author": {
+      "name": "Niko Lockenvitz",
+      "github": "nikolockenvitz",
+      "wallet": "sh0HhxHWRzc0PIT7lO-hHTtMx9rh1hbfHblR2kwuN7I"
+    },
+    "contributors": [
+      {
+        "name": "Rene Fischer",
+        "github": "FischerRene",
+        "prs": [
+          "https://github.com/hackathon-sidn/deno-kek/pull/1"
+        ],
+        "wallet": "2WsJq8LARujih5-psOTBzDMnC3VF8-ETiO-gjDqRwYk"
+      },
+      {
+        "name": "Christian Malek",
+        "github": "christianmalek",
+        "prs": [],
+        "wallet": "-QsaTixpO_hjQXzClQ-jEtXDYxeXrIkGK_xWqsCB4Kc"
+      }
+    ]
+  },
+  {
+    "name": "cors-proxy",
+    "nestdotland": "nest.land/package/cors-proxy",
+    "denoland": "deno.land/x/cors_proxy",
+    "author": {
+      "name": "Niko Lockenvitz",
+      "github": "nikolockenvitz",
+      "wallet": "sh0HhxHWRzc0PIT7lO-hHTtMx9rh1hbfHblR2kwuN7I"
+    },
+    "contributors": [
+      {
+        "name": "Rene Fischer",
+        "github": "FischerRene",
+        "prs": [],
+        "wallet": "2WsJq8LARujih5-psOTBzDMnC3VF8-ETiO-gjDqRwYk"
+      },
+      {
+        "name": "Christian Malek",
+        "github": "christianmalek",
+        "prs": [
+          "https://github.com/hackathon-sidn/cors-proxy/pull/2"
+        ],
+        "wallet": "-QsaTixpO_hjQXzClQ-jEtXDYxeXrIkGK_xWqsCB4Kc"
+      }
+    ]
   }
 ]

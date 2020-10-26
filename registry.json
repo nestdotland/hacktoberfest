@@ -173,6 +173,12 @@
   },
   {
     "name": "dmm",
+    "nestdotland": "nest.land/package/dmm",
+    "denoland": "deno.land/x/dmm",
+    "author": {
+      "name": "Edward Sbebbington",
+      "github": "ebebbington",
+    },
     "contributors": [
       {
         "name": "The Wizard Bear",

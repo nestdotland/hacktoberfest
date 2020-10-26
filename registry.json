@@ -51,6 +51,17 @@
     "contributors": []
   },
   {
+    "name": "mac-address",
+    "nestdotland": "https://nest.land/package/mac-address",
+    "denoland": "https://deno.land/x/macaddress",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
     "name": "neural_nets",
     "nestdotland": "https://nest.land/package/neural_nets",
     "denoland": "https://deno.land/x/neural_nets",

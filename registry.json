@@ -148,5 +148,40 @@
       "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
     },
     "contributors": []
+  },
+  {
+    "name": "maze_generator",
+    "nestdotland": "nest.land/package/maze_generator",
+    "denoland": "deno.land/x/maze_generator",
+    "author": {
+      "name": "The Wizard Bear",
+      "github": "thewizardbear",
+      "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+    },
+    "contributors": []
+  },
+  {
+    "name": "terminal_images",
+    "nestdotland": "nest.land/package/terminal_images",
+    "denoland": "deno.land/x/terminal_images",
+    "author": {
+      "name": "The Wizard Bear",
+      "github": "thewizardbear",
+      "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+    },
+    "contributors": []
+  },
+  {
+    "name": "dmm",
+    "contributors": [
+      {
+        "name": "The Wizard Bear",
+        "github": "thewizardbear",
+        "prs": [
+          "https://github.com/drashland/dmm/pull/77"
+        ],
+        "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+      }
+    ]
   }
 ]

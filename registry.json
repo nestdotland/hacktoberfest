@@ -109,5 +109,16 @@
       "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
     },
     "contributors": []
+  },
+  {
+    "name": "youtube-deno",
+    "nestdotland": "nest.land/package/youtube-deno",
+    "denoland": "deno.land/x/youtube@v0.3.0",
+    "author": {
+      "name": "Aksh Gupta",
+      "github": "akshgpt7",
+      "wallet": ""
+    },
+    "contributors": []
   }
 ]

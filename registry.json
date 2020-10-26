@@ -32,11 +32,13 @@
       {
         "name": "Ravi Mashru",
         "github": "ravimashru",
-        "prs": ["https://github.com/michael-spengler/request/pull/4"],
+        "prs": [
+          "https://github.com/michael-spengler/request/pull/4"
+        ],
         "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
       }
     ]
-  },  
+  },
   {
     "name": "distance-calculator",
     "nestdotland": "nest.land/package/distance-calculator",
@@ -47,7 +49,7 @@
       "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
     },
     "contributors": []
-  },  
+  },
   {
     "name": "neural_nets",
     "nestdotland": "nest.land/package/neural_nets",
@@ -60,8 +62,8 @@
     "contributors": []
   },
   {
-    "name": "cicd",
-    "nestdotland": "nest.land/package/cicd",
+    "name": "CICD",
+    "nestdotland": "nest.land/package/CICD",
     "denoland": "deno.land/x/cicd",
     "author": {
       "name": "Michael Spengler",
@@ -69,10 +71,14 @@
       "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
     },
     "contributors": [
-          {
+      {
         "name": "Ravi Mashru",
         "github": "ravimashru",
-        "prs": ["https://github.com/michael-spengler/cicd/pull/8", "https://github.com/michael-spengler/cicd/pull/12", "https://github.com/michael-spengler/cicd/pull/13"],
+        "prs": [
+          "https://github.com/michael-spengler/cicd/pull/8",
+          "https://github.com/michael-spengler/cicd/pull/12",
+          "https://github.com/michael-spengler/cicd/pull/13"
+        ],
         "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
       }
     ]
@@ -96,6 +102,50 @@
       "name": "Szalay Kristóf",
       "github": "littletof",
       "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
+    },
+    "contributors": []
+  },
+  {
+    "name": "testEach",
+    "nestdotland": "nest.land/package/testEach",
+    "denoland": "deno.land/x/test_each",
+    "author": {
+      "name": "Szalay Kristóf",
+      "github": "littletof",
+      "wallet": "mZw5ZHwWj6gGbBduXKUK9t5um9WoSMXVl_7JJcpli0I"
+    },
+    "contributors": []
+  },
+  {
+    "name": "chart",
+    "nestdotland": "nest.land/package/chart",
+    "denoland": "deno.land/x/chart",
+    "author": {
+      "name": "Maximous Black",
+      "github": "maximousblk",
+      "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
+    },
+    "contributors": []
+  },
+  {
+    "name": "prlog",
+    "nestdotland": "nest.land/package/prlog",
+    "denoland": "deno.land/x/prlog",
+    "author": {
+      "name": "Maximous Black",
+      "github": "maximousblk",
+      "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
+    },
+    "contributors": []
+  },
+  {
+    "name": "serve",
+    "nestdotland": "nest.land/package/serve",
+    "denoland": "deno.land/x/serve",
+    "author": {
+      "name": "Maximous Black",
+      "github": "maximousblk",
+      "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
     },
     "contributors": []
   },

@@ -1,8 +1,8 @@
 [
   {
     "name": "denon",
-    "nestdotland": "your_module",
-    "denoland": "your_module",
+    "nestdotland": "https://nest.land/package/your_module",
+    "denoland": "https://deno.land/x/your_module",
     "author": {
       "name": "author_name",
       "github": "author_github",
@@ -21,8 +21,8 @@
   },
   {
     "name": "request",
-    "nestdotland": "nest.land/package/request",
-    "denoland": "deno.land/x/request",
+    "nestdotland": "https://nest.land/package/request",
+    "denoland": "https://deno.land/x/request",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -41,8 +41,8 @@
   },
   {
     "name": "distance-calculator",
-    "nestdotland": "nest.land/package/distance-calculator",
-    "denoland": "deno.land/x/distancecalculator",
+    "nestdotland": "https://nest.land/package/distance-calculator",
+    "denoland": "https://deno.land/x/distancecalculator",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -52,8 +52,8 @@
   },
   {
     "name": "neural_nets",
-    "nestdotland": "nest.land/package/neural_nets",
-    "denoland": "deno.land/x/neural_nets",
+    "nestdotland": "https://nest.land/package/neural_nets",
+    "denoland": "https://deno.land/x/neural_nets",
     "author": {
       "name": "Ravi Mashru",
       "github": "ravimashru",
@@ -63,8 +63,8 @@
   },
   {
     "name": "CICD",
-    "nestdotland": "nest.land/package/CICD",
-    "denoland": "deno.land/x/cicd",
+    "nestdotland": "https://nest.land/package/CICD",
+    "denoland": "https://deno.land/x/cicd",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -85,8 +85,8 @@
   },
   {
     "name": "registries",
-    "nestdotland": "nest.land/package/registries",
-    "denoland": "deno.land/x/registries",
+    "nestdotland": "https://nest.land/package/registries",
+    "denoland": "https://deno.land/x/registries",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -96,8 +96,8 @@
   },
   {
     "name": "kopo",
-    "nestdotland": "nest.land/package/kopo",
-    "denoland": "deno.land/x/kopo",
+    "nestdotland": "https://nest.land/package/kopo",
+    "denoland": "https://deno.land/x/kopo",
     "author": {
       "name": "Szalay Kristóf",
       "github": "littletof",
@@ -107,8 +107,8 @@
   },
   {
     "name": "testEach",
-    "nestdotland": "nest.land/package/testEach",
-    "denoland": "deno.land/x/test_each",
+    "nestdotland": "https://nest.land/package/testEach",
+    "denoland": "https://deno.land/x/test_each",
     "author": {
       "name": "Szalay Kristóf",
       "github": "littletof",
@@ -118,8 +118,8 @@
   },
   {
     "name": "chart",
-    "nestdotland": "nest.land/package/chart",
-    "denoland": "deno.land/x/chart",
+    "nestdotland": "https://nest.land/package/chart",
+    "denoland": "https://deno.land/x/chart",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",
@@ -129,8 +129,8 @@
   },
   {
     "name": "prlog",
-    "nestdotland": "nest.land/package/prlog",
-    "denoland": "deno.land/x/prlog",
+    "nestdotland": "https://nest.land/package/prlog",
+    "denoland": "https://deno.land/x/prlog",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",
@@ -140,8 +140,8 @@
   },
   {
     "name": "serve",
-    "nestdotland": "nest.land/package/serve",
-    "denoland": "deno.land/x/serve",
+    "nestdotland": "https://nest.land/package/serve",
+    "denoland": "https://deno.land/x/serve",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",

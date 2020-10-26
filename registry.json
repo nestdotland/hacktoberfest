@@ -57,7 +57,12 @@
       "github": "ravimashru",
       "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
     },
-    "contributors": []
+    "contributors": [{
+      "name": "Vishvaas Jain",
+      "github": "VJAWSM",
+      "prs": ["https://github.com/ravimashru/deno-nets/pull/4"],
+      "wallet": "9Amq1FA9aYquTbEmNHhuK98YvXjj62H0PTHJ9jNyaEk"
+    }]
   },
   {
     "name": "cicd",

@@ -62,8 +62,8 @@
     "contributors": []
   },
   {
-    "name": "cicd",
-    "nestdotland": "nest.land/package/cicd",
+    "name": "CICD",
+    "nestdotland": "nest.land/package/CICD",
     "denoland": "deno.land/x/cicd",
     "author": {
       "name": "Michael Spengler",

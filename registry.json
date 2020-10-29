@@ -256,6 +256,17 @@
           "https://github.com/hackathon-sidn/cors-proxy/pull/2"
         ],
         "wallet": "-QsaTixpO_hjQXzClQ-jEtXDYxeXrIkGK_xWqsCB4Kc"
+      },
+      {
+        "name": "youtube-deno",
+        "nestdotland": "youtube-deno",
+        "denoland": "youtube",
+        "author": {
+          "name": "Aksh Gupta",
+          "github": "akshgpt7",
+          "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo"
+        },
+        "contributors": []
       }
     ]
   }

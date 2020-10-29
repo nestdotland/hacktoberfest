@@ -95,6 +95,26 @@
     ]
   },
   {
+    "name": "location",
+    "nestdotland": "https://nest.land/package/location",
+    "denoland": "https://deno.land/x/location",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": [
+      {
+        "name": "Dennis Neumann",
+        "github": "Dennis2512",
+        "prs": [
+          "https://github.com/michael-spengler/location/pull/1"
+        ],
+        "wallet": "kaGAhwVEnkFWRHy1e6kdE1vDiOgoLcUrU5-AejvUBEs"
+      }
+    ]
+  },
+  {
     "name": "registries",
     "nestdotland": "https://nest.land/package/registries",
     "denoland": "https://deno.land/x/registries",

@@ -123,12 +123,11 @@
     "author": {
       "name": "Aksh Gupta",
       "github": "akshgpt7",
-      "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo
-"
+      "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo"
     },
     "contributors": []
   },
-  }
+  {
     "name": "chart",
     "nestdotland": "nest.land/package/chart",
     "denoland": "deno.land/x/chart",

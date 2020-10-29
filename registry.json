@@ -117,17 +117,6 @@
     "contributors": []
   },
   {
-    "name": "youtube-deno",
-    "nestdotland": "nest.land/package/youtube-deno",
-    "denoland": "deno.land/x/youtube@v0.3.0",
-    "author": {
-      "name": "Aksh Gupta",
-      "github": "akshgpt7",
-      "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo"
-    },
-    "contributors": []
-  },
-  {
     "name": "chart",
     "nestdotland": "nest.land/package/chart",
     "denoland": "deno.land/x/chart",
@@ -157,6 +146,17 @@
       "name": "Maximous Black",
       "github": "maximousblk",
       "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
+    },
+    "contributors": []
+  },
+  {
+    "name": "youtube-deno",
+    "nestdotland": "youtube-deno",
+    "denoland": "youtube",
+    "author": {
+      "name": "Aksh Gupta",
+      "github": "akshgpt7",
+      "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo"
     },
     "contributors": []
   }

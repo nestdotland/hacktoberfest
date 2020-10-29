@@ -1,8 +1,8 @@
 [
   {
     "name": "denon",
-    "nestdotland": "https://nest.land/package/your_module",
-    "denoland": "https://deno.land/x/your_module",
+    "nestdotland": "your_module",
+    "denoland": "your_module",
     "author": {
       "name": "author_name",
       "github": "author_github",
@@ -21,8 +21,8 @@
   },
   {
     "name": "request",
-    "nestdotland": "https://nest.land/package/request",
-    "denoland": "https://deno.land/x/request",
+    "nestdotland": "request",
+    "denoland": "request",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -41,8 +41,8 @@
   },
   {
     "name": "distance-calculator",
-    "nestdotland": "https://nest.land/package/distance-calculator",
-    "denoland": "https://deno.land/x/distancecalculator",
+    "nestdotland": "distance-calculator",
+    "denoland": "distancecalculator",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -52,8 +52,8 @@
   },
   {
     "name": "mac-address",
-    "nestdotland": "https://nest.land/package/mac-address",
-    "denoland": "https://deno.land/x/macaddress",
+    "nestdotland": "mac-address",
+    "denoland": "macaddress",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -63,8 +63,8 @@
   },
   {
     "name": "neural_nets",
-    "nestdotland": "https://nest.land/package/neural_nets",
-    "denoland": "https://deno.land/x/neural_nets",
+    "nestdotland": "neural_nets",
+    "denoland": "neural_nets",
     "author": {
       "name": "Ravi Mashru",
       "github": "ravimashru",
@@ -74,8 +74,8 @@
   },
   {
     "name": "CICD",
-    "nestdotland": "https://nest.land/package/CICD",
-    "denoland": "https://deno.land/x/cicd",
+    "nestdotland": "CICD",
+    "denoland": "cicd",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -96,8 +96,8 @@
   },
   {
     "name": "location",
-    "nestdotland": "https://nest.land/package/location",
-    "denoland": "https://deno.land/x/location",
+    "nestdotland": "location",
+    "denoland": "location",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -116,8 +116,8 @@
   },
   {
     "name": "registries",
-    "nestdotland": "https://nest.land/package/registries",
-    "denoland": "https://deno.land/x/registries",
+    "nestdotland": "registries",
+    "denoland": "registries",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -127,8 +127,8 @@
   },
   {
     "name": "kopo",
-    "nestdotland": "https://nest.land/package/kopo",
-    "denoland": "https://deno.land/x/kopo",
+    "nestdotland": "kopo",
+    "denoland": "kopo",
     "author": {
       "name": "Szalay Kristóf",
       "github": "littletof",
@@ -138,8 +138,8 @@
   },
   {
     "name": "testEach",
-    "nestdotland": "https://nest.land/package/testEach",
-    "denoland": "https://deno.land/x/test_each",
+    "nestdotland": "testEach",
+    "denoland": "test_each",
     "author": {
       "name": "Szalay Kristóf",
       "github": "littletof",
@@ -149,8 +149,8 @@
   },
   {
     "name": "chart",
-    "nestdotland": "https://nest.land/package/chart",
-    "denoland": "https://deno.land/x/chart",
+    "nestdotland": "chart",
+    "denoland": "chart",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",
@@ -160,8 +160,8 @@
   },
   {
     "name": "web3",
-    "nestdotland": "https://nest.land/package/web3",
-    "denoland": "https://deno.land/x/web3",
+    "nestdotland": "web3",
+    "denoland": "web3",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -171,8 +171,8 @@
   },
   {
     "name": "deno_moment",
-    "nestdotland": "https://nest.land/package/moment",
-    "denoland": "https://deno.land/x/deno_moment",
+    "nestdotland": "moment",
+    "denoland": "deno_moment",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -182,8 +182,8 @@
   },
   {
     "name": "time",
-    "nestdotland": "https://nest.land/package/time",
-    "denoland": "https://deno.land/x/time",
+    "nestdotland": "time",
+    "denoland": "time",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -193,8 +193,8 @@
   },
   {
     "name": "utilities",
-    "nestdotland": "https://nest.land/package/utilities",
-    "denoland": "https://deno.land/x/utilities",
+    "nestdotland": "utilities",
+    "denoland": "utilities",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -204,8 +204,8 @@
   },
   {
     "name": "persistence",
-    "nestdotland": "https://nest.land/package/persistence",
-    "denoland": "https://deno.land/x/persistence",
+    "nestdotland": "persistence",
+    "denoland": "persistence",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -215,8 +215,8 @@
   },
   {
     "name": "monitoring",
-    "nestdotland": "https://nest.land/package/monitoring",
-    "denoland": "https://deno.land/x/monitoring",
+    "nestdotland": "monitoring",
+    "denoland": "monitoring",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -226,8 +226,8 @@
   },
   {
     "name": "ethereum",
-    "nestdotland": "https://nest.land/package/ethereum",
-    "denoland": "https://deno.land/x/ethereum",
+    "nestdotland": "ethereum",
+    "denoland": "ethereum",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -237,8 +237,8 @@
   },
   {
     "name": "food",
-    "nestdotland": "https://nest.land/package/food",
-    "denoland": "https://deno.land/x/food",
+    "nestdotland": "food",
+    "denoland": "food",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -248,8 +248,8 @@
   },
   {
     "name": "nlp",
-    "nestdotland": "https://nest.land/package/nlp",
-    "denoland": "https://deno.land/x/nlp",
+    "nestdotland": "nlp",
+    "denoland": "nlp",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -259,8 +259,8 @@
   },
   {
     "name": "nlp",
-    "nestdotland": "https://nest.land/package/nlp",
-    "denoland": "https://deno.land/x/nlp",
+    "nestdotland": "nlp",
+    "denoland": "nlp",
     "author": {
       "name": "Michael Spengler",
       "github": "michael-spengler",
@@ -270,8 +270,8 @@
   },
   {
     "name": "prlog",
-    "nestdotland": "https://nest.land/package/prlog",
-    "denoland": "https://deno.land/x/prlog",
+    "nestdotland": "prlog",
+    "denoland": "prlog",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",
@@ -281,8 +281,8 @@
   },
   {
     "name": "serve",
-    "nestdotland": "https://nest.land/package/serve",
-    "denoland": "https://deno.land/x/serve",
+    "nestdotland": "serve",
+    "denoland": "serve",
     "author": {
       "name": "Maximous Black",
       "github": "maximousblk",

@@ -28,7 +28,7 @@
                 @{{ entry.author.name }}
               </a>
               <span class="grey-text">
-                published v{{ entry.version }} • {{ entry.time }} ago
+                published {{ entry.version }} • {{ entry.time }} ago
               </span>
             </p>
             <hr />

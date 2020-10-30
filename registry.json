@@ -51,6 +51,17 @@
     "contributors": []
   },
   {
+    "name": "mac-address",
+    "nestdotland": "mac-address",
+    "denoland": "macaddress",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
     "name": "neural_nets",
     "nestdotland": "neural_nets",
     "denoland": "neural_nets",
@@ -101,6 +112,26 @@
     ]
   },
   {
+    "name": "location",
+    "nestdotland": "location",
+    "denoland": "location",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": [
+      {
+        "name": "Dennis Neumann",
+        "github": "Dennis2512",
+        "prs": [
+          "https://github.com/michael-spengler/location/pull/1"
+        ],
+        "wallet": "kaGAhwVEnkFWRHy1e6kdE1vDiOgoLcUrU5-AejvUBEs"
+      }
+    ]
+  },
+  {
     "name": "registries",
     "nestdotland": "registries",
     "denoland": "registries",
@@ -141,6 +172,105 @@
       "name": "Maximous Black",
       "github": "maximousblk",
       "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
+    },
+    "contributors": []
+  },
+  {
+    "name": "web3",
+    "nestdotland": "web3",
+    "denoland": "web3",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "deno_moment",
+    "nestdotland": "moment",
+    "denoland": "deno_moment",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "time",
+    "nestdotland": "time",
+    "denoland": "time",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "utilities",
+    "nestdotland": "utilities",
+    "denoland": "utilities",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "persistence",
+    "nestdotland": "persistence",
+    "denoland": "persistence",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "monitoring",
+    "nestdotland": "monitoring",
+    "denoland": "monitoring",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "ethereum",
+    "nestdotland": "ethereum",
+    "denoland": "ethereum",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "food",
+    "nestdotland": "food",
+    "denoland": "food",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
+    },
+    "contributors": []
+  },
+  {
+    "name": "nlp",
+    "nestdotland": "nlp",
+    "denoland": "nlp",
+    "author": {
+      "name": "Michael Spengler",
+      "github": "michael-spengler",
+      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
     },
     "contributors": []
   },

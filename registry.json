@@ -407,5 +407,15 @@
         "contributors": []
       }
     ]
+  },
+  {
+    "name": "batch_gcd",
+    "nestdotland": "batch_gcd",
+    "denoland": "batch_gcd",
+    "author": {
+      "name": "Opliko",
+      "github": "oplik0",
+    },
+    "contributors": []
   }
 ]

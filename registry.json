@@ -13,7 +13,7 @@
         "name": "contributor_name",
         "github": "contributor_github",
         "prs": [
-          "https://github.com/author_github/module_repository/pull/number"
+          "https://github.com/:author_github/:module_repository/pull/:number"
         ],
         "wallet": "1234567890abcdefghijk"
       }
@@ -70,7 +70,24 @@
       "github": "ravimashru",
       "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
     },
-    "contributors": []
+    "contributors": [
+      {
+        "name": "Vishvaas Jain",
+        "github": "VJAWSM",
+        "prs": [
+          "https://github.com/ravimashru/deno-nets/pull/4"
+        ],
+        "wallet": "9Amq1FA9aYquTbEmNHhuK98YvXjj62H0PTHJ9jNyaEk"
+      },
+      {
+        "name": "Chandan Kumar",
+        "github": "kumarchandan",
+        "prs": [
+          "https://github.com/ravimashru/deno-nets/pull/3"
+        ],
+        "wallet": "B5VckP79BJulRrdDDNsbPQhFJiyOXpcEjlyZSjAqT1Q"
+      }
+    ]
   },
   {
     "name": "CICD",
@@ -258,17 +275,6 @@
     "contributors": []
   },
   {
-    "name": "nlp",
-    "nestdotland": "nlp",
-    "denoland": "nlp",
-    "author": {
-      "name": "Michael Spengler",
-      "github": "michael-spengler",
-      "wallet": "pYToJUf_LphAfcPfZaexyiB0xWp2_mlk9c6mtX6lzzY"
-    },
-    "contributors": []
-  },
-  {
     "name": "prlog",
     "nestdotland": "prlog",
     "denoland": "prlog",
@@ -289,5 +295,109 @@
       "wallet": "D6FrWGDzFMdt0P9sXnMu6dYsQY-YL_THFA0jBpHD4LU"
     },
     "contributors": []
+  },
+  {
+    "name": "maze_generator",
+    "nestdotland": "maze_generator",
+    "denoland": "maze_generator",
+    "author": {
+      "name": "The Wizard Bear",
+      "github": "thewizardbear",
+      "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+    },
+    "contributors": []
+  },
+  {
+    "name": "terminal_images",
+    "nestdotland": "terminal_images",
+    "denoland": "terminal_images",
+    "author": {
+      "name": "The Wizard Bear",
+      "github": "thewizardbear",
+      "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+    },
+    "contributors": []
+  },
+  {
+    "name": "dmm",
+    "nestdotland": "dmm",
+    "denoland": "dmm",
+    "author": {
+      "name": "Edward Sbebbington",
+      "github": "ebebbington"
+    },
+    "contributors": [
+      {
+        "name": "The Wizard Bear",
+        "github": "thewizardbear",
+        "prs": [
+          "https://github.com/drashland/dmm/pull/77"
+        ],
+        "wallet": "jHLP0-OVJMhpFyolgqhrOPQ1bt5url5A9ouwarWRtj4"
+      }
+    ]
+  },
+  {
+    "name": "kek",
+    "nestdotland": "kek",
+    "denoland": "kek",
+    "author": {
+      "name": "Niko Lockenvitz",
+      "github": "nikolockenvitz",
+      "wallet": "sh0HhxHWRzc0PIT7lO-hHTtMx9rh1hbfHblR2kwuN7I"
+    },
+    "contributors": [
+      {
+        "name": "Rene Fischer",
+        "github": "FischerRene",
+        "prs": [
+          "https://github.com/hackathon-sidn/deno-kek/pull/1"
+        ],
+        "wallet": "2WsJq8LARujih5-psOTBzDMnC3VF8-ETiO-gjDqRwYk"
+      },
+      {
+        "name": "Christian Malek",
+        "github": "christianmalek",
+        "prs": [],
+        "wallet": "-QsaTixpO_hjQXzClQ-jEtXDYxeXrIkGK_xWqsCB4Kc"
+      }
+    ]
+  },
+  {
+    "name": "cors-proxy",
+    "nestdotland": "cors-proxy",
+    "denoland": "cors_proxy",
+    "author": {
+      "name": "Niko Lockenvitz",
+      "github": "nikolockenvitz",
+      "wallet": "sh0HhxHWRzc0PIT7lO-hHTtMx9rh1hbfHblR2kwuN7I"
+    },
+    "contributors": [
+      {
+        "name": "Rene Fischer",
+        "github": "FischerRene",
+        "prs": [],
+        "wallet": "2WsJq8LARujih5-psOTBzDMnC3VF8-ETiO-gjDqRwYk"
+      },
+      {
+        "name": "Christian Malek",
+        "github": "christianmalek",
+        "prs": [
+          "https://github.com/hackathon-sidn/cors-proxy/pull/2"
+        ],
+        "wallet": "-QsaTixpO_hjQXzClQ-jEtXDYxeXrIkGK_xWqsCB4Kc"
+      },
+      {
+        "name": "youtube-deno",
+        "nestdotland": "youtube-deno",
+        "denoland": "youtube",
+        "author": {
+          "name": "Aksh Gupta",
+          "github": "akshgpt7",
+          "wallet": "LvguIXMVoJWLDAw8Cj42qmwrrfYG2U_36iprvXOfKDo"
+        },
+        "contributors": []
+      }
+    ]
   }
 ]

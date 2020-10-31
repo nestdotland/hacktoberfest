@@ -407,5 +407,18 @@
         "contributors": []
       }
     ]
+  },
+  {
+    "name": "triceratop",
+    "nestdotland": "triceratop",
+    "denoland": "triceratop",
+    "author": {
+      "name": "Nicholas Tran",
+      "github": "NicholasACTran",
+      "wallet": "OnnDjiyJ1t084TNWx_DYVF9kDeTKDXy8X4gKJNYCejE"
+    },
+    "contributors": [
+      
+    ]
   }
 ]

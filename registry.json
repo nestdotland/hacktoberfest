@@ -418,7 +418,15 @@
       "wallet": "OnnDjiyJ1t084TNWx_DYVF9kDeTKDXy8X4gKJNYCejE"
     },
     "contributors": [
-      
+      {
+        "name": "Ravi Mashru",
+        "github": "ravimashru",
+        "prs": [
+          "https://github.com/NicholasACTran/triceratop/pull/2",
+          "https://github.com/NicholasACTran/triceratop/pull/4"
+        ],
+        "wallet": "bMZtMhIVwPq1cr7-Vj8uzeFoIQxqw6lQufL8XOozj5s"
+      }
     ]
   }
 ]
